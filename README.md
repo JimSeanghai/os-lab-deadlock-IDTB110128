@@ -15,6 +15,8 @@
 ## Level 5
 ![Level4](https://github.com/JimSeanghai/os-lab-deadlock-IDTB110128/blob/5876c26514c9e203359f940e4e71ed1de242ac01/Level5%20-%20deadlock.png)
 ## Level 6
+![Level6](https://github.com/JimSeanghai/os-lab-deadlock-IDTB110128/blob/d0b9593aeeb870958a26388411d07477f8493b06/Level6%20-%20deadlock.png)
 
 ## Level 7
+![Level7] ()
 
