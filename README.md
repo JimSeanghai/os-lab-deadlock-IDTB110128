@@ -10,3 +10,11 @@
 ## vault_beta.img
 ![vault_beta.img](https://github.com/JimSeanghai/os-lab-deadlock-IDTB110128/blob/d0da0409163466dadb8ad5a60452c582ef136155/vault_beta.png)
 
+## Level 3
+![Level3](https://github.com/JimSeanghai/os-lab-deadlock-IDTB110128/blob/0f1c30fe696fa3e3925261394143844bfd14062f/Level3%20-%20deadlock.png)
+## Level 5
+
+## Level 6
+
+## Level 7
+
