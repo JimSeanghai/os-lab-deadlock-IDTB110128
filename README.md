@@ -1,6 +1,6 @@
 # os-lab-deadlock-IDTB110128
 
-# Quantum Widget Exploit Lab Report
+# Deadlock Lab Report
 **Student ID:**  : IDTB110128
 
 ---
